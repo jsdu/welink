@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>35BEC4BB-1D06-412F-87A8-B06383D4E057</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SelfieTag</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EAD9259526F15D8A8DD03D63DC23A710850AC10E</key>
+		<string>https://github.com/tanx8/weLink.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SelfieTag/SelfieTag.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EAD9259526F15D8A8DD03D63DC23A710850AC10E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tanx8/weLink.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EAD9259526F15D8A8DD03D63DC23A710850AC10E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EAD9259526F15D8A8DD03D63DC23A710850AC10E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SelfieTag</string>
+		</dict>
+	</array>
+</dict>
+</plist>
